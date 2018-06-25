@@ -1,10 +1,30 @@
 ---
 layout: post
-title: You're up and running!
+title:  "You are what you eat!"
+date:   2018-06-01 15:40:03 +0100
+categories: jekyll update
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I suppose that in a literal sense, it is true that you are what you eat. Our bodies are composed primarily of the food and drinks we put in our mouths, plus some things like oxygen that we draw from the air, nutrients like vitamin D that we make with the help of sunlight, and bacteria that enter from the environment. In this literal sense we are what we eat, but why are we so concerned with what we put in our mouths? Can eating certain foods make us healthier and better individuals as well? Or, is food selection more like fashion, or perhaps even like religion?
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+What is hot? Styles of restaurants, types of cookbooks, and weight loss diets change in predictable ways that are very reminiscent of changes in clothing fashions, home furnishings, and even hairstyles. Don't you think you can look at the clothing and grooming of a young couple in New York or San Francisco entering a fashionable restaurant and be able to predict what they are likely to be eating?
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Don't you feel proud when you put on your new jeans, style your hair, and eat your arugula while sipping Chardonnay? It is wonderful that we have our fashions, because relating well to other key people in our lives is an important part of what it means to be human. The problem arises when this is confounded with science and health. We don't think our clothing or hairstyle will make us healthier, but many of us do obsess about the health benefits or risks of food. So what is the latest science telling us?
+
+Over the years, doctors have offered all kinds of contradictory advice about what to eat. You know the scene. Minimize coffee drinking to avoid caffeine; wait a minute, coffee is healthy and protective. Drink lots of milk and eat cheese for healthy bones; wait a minute, avoid saturated fat. Army K rations provided to the combat troops often contained sausage, candy, biscuits, chewing gum, and cigarettes. So, many people throw up their hands in despair and pay no attention to what might be a healthy diet. In the years since the government-pushed scare about eating FAT came out, the obesity rate among Americans has skyrocketed. Part of the problem is that healthy nutrition is very complex; but fortunately, many good research studies have been completed.
+
+You may have heard the headlines about a big study of the Mediterranean diet, which was published this spring. Fittingly, the study was conducted in Spain, and it involved over 7000 men and women. Why is this study so important? It was an experimental scientific study, with random assignment to diet condition. This means that the people who would be eating different diets were roughly equivalent at the beginning of the study, and so any effects that resulted could be reasonably attributed to the diet itself. The study continued for about five years. All the participants were over age 55 at the start, so disease development and premature mortality (as people age) could be discovered.
+
+The Mediterranean diet involves eating relatively high amounts of fruits, nuts, olive oil, fish, and vegetables. Not surprisingly, these foods are common in Mediterranean countries like Greece and Spain. This diet means relatively lower amounts of beef, dairy products, candy, soda, pastries, and processed lunch meats. Think grapes, nuts, and salads, not bologna, French fries and doughnuts.
+
+The amazing finding was that the diet did make a difference. Although the details are complex, I interpret the findings as providing good evidence that adopting a diet tilted toward the Mediterranean one very possibly will make you healthier in a relatively short period of time than would continuing to eat bacon cheeseburgers with Coke and pastries. Although this may not sound shocking, the study is among the first providing convincing evidence that you can directly alter your health by deciding to change what you put in your mouth.
+
+Although various commentators on this study have offered recommendations to drink wine, or to eat fish, or to eat lots of fresh fruit, there is really no reason to conclude this from the Spanish study. The various component foods were not separated out. Still, the results were consistent with other good research studies suggesting that it is healthier to eat unprocessed and plant-based foods like vegetables, fruits, nuts, and perhaps fish or poultry; but it is unhealthier to drink soda, eat baked goods and pastries, wolf down processed meats, and generally pig out on food that comes in a box. Interestingly, I interpret this Spanish study as also revealing that extra-virgin olive oil is likely a healthy food, even though it is nearly 100% fat. I drizzle frequently.
+
+In my work on the Longevity Project, we have been studying over 1500 bright Americans who were first examined as children in the 1920s. They were followed for their whole lives, and we have evaluated how well they aged and how long they lived. We ask: who lives long, healthy, and thriving lives, and why? We then confirm the results by examining other studies. We do not have good information on what these people ate throughout the 20th century but we do have tremendous detail about other aspects of their lives that lead to a thriving trajectory of health and accomplishment that many of us would like to achieve. There are definitely significant choices to be made, well beyond what we eat.
+
+Although there is increasing evidence that the Mediterranean diet is a healthy one, the overall impact is modest. This means that many people on the diet will see little health benefit while many who ignore the diet will do just fine. But, if a healthy diet like a Mediterranean diet is combined with other known elements of a healthy lifestyle, then the chances for meaningful impact on health and longevity will dramatically increase. You are what you eat, but you are also what you do and how you relate to others. There is excellent evidence that your overall lifestyle patterns—what we call “healthy pathways” in the Longevity Project—are very important to being happy and successful, and living a long, healthy life.
+
+
+
+![_config.yml]({{ site.baseurl }}/foodpix/foodpix1.jpeg)
